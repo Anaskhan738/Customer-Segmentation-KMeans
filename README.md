@@ -1,12 +1,12 @@
 # Customer Segmentation using K-Means Clustering
 Customer Segmentation using K-Means Clustering on Mall Customers dataset to group customers based on income and spending habits.
 
-  Project Overview
+ 📌 Project Overview
 
 This project groups mall customers into different segments based on their Annual Income and Spending Score.
 The goal is to help businesses understand customer behavior and create better marketing strategies.
 
- Dataset
+📂 Dataset
 
 Name: Mall_Customers.csv
 
@@ -14,7 +14,7 @@ Rows: 200 customers
 
 Columns: CustomerID, Gender, Age, Annual Income, Spending Score
 
- Steps in the Project
+⚙️ Steps in the Project
 
 Load the Dataset – Import the CSV file.
 
@@ -28,7 +28,7 @@ K-Means Clustering – Group customers into clusters.
 
 Visualization – Plot clusters to show customer groups.
 
- Tools & Libraries
+🛠️ Tools & Libraries
 
 Python
 
@@ -38,7 +38,7 @@ Matplotlib, Seaborn
 
 Scikit-learn
 
- Results
+📊 Results
 
 Customers are divided into clusters such as:
 
@@ -52,10 +52,11 @@ Low Income, Low Spending
 
 These clusters help create customer personas for targeted marketing.
 
- How to Run
+🚀 How to Run
 
 Open the Jupyter Notebook (.ipynb file).
 
 Run all cells step by step.
 
 Check the visualizations of customer clusters.
+ 
